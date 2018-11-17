@@ -19,6 +19,7 @@ Existem rotinas que são feitas manualmente e podem ser substituídas por um sim
  "FsEnvMail 4.7.1 - tttp110" (desenvolvido pelo Ernani Forastieri - https://www.ernaniforastieri.com/products/fsenvmail1/).
  
  [MAIL]
+ 
 Protocol=POP3
 
 AuthLOGIN=1
